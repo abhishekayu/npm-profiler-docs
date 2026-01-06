@@ -1,9 +1,2 @@
-# Vite + React + Tailwind (Hello World)
-
-## Setup
-```bash
-npm install
-npm run dev
-```
-
-Open the URL shown in your terminal (usually http://localhost:5173).
+NPM Profiler ℹ
+npm Profiler : A Comprehensive Analysis Command-Line Analysis Tool for Projects.
